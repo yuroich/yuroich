@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Use this image as your banner/header -->
-<img src="assets/nacht-bg.jpg" alt="Nacht Banner" width="100%" />
+<img src="nacht-bg.jpg" alt="Nacht Banner" width="100%" />
 
 </div>
 
