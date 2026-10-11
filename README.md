@@ -5,7 +5,7 @@
 <br/>
 
 # ⚫『 NATHANIEL RAYNADA 』⚫
-### *Shadow Magic Developer*
+### *Full Stack Developer*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=800&lines=IT+Student+%E2%9A%AB+Full+Stack+Developer;Shadow+Front-End+%7C+Void+Back-End;Master+of+the+Dark+Arts;Building+Systems+in+Darkness...;Unite+%E2%9A%AB+Dominate+%E2%9A%AB+Conquer" alt="Typing SVG" />
 
